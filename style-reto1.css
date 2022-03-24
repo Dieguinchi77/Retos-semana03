@@ -1,0 +1,70 @@
+
+
+
+/* RESET */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Mono";
+}
+
+
+.contenedor {
+    width: 90%;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+
+.cards1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box1 {
+    width: 220px;
+    height: 315px;
+    background-color: black;
+    text-align: center;
+    color: steelblue;
+    padding-top: 90px;
+}
+
+.box1 h3 {
+    font-size: 45px;
+} 
+
+.cards2 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box2 {
+    width: 90px;
+    height: 130px;
+    background-color: skyblue;
+    text-align: center;
+    padding-top: 35px;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
